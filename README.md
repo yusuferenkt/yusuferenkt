@@ -4,7 +4,7 @@
 
 - 📝 Şu anda **C#, .NET, React, Yapay Zeka ve Makine Öğrenmesi, SQL öğreniyorum.**
 
-- 📫 Bana şu linklerden ulaşabilirsiniz: **erenikikarabulut@gmail.com**
+- 📫 Bana şu linkten ulaşabilirsiniz: **erenikikarabulut@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
